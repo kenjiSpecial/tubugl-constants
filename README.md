@@ -1,6 +1,6 @@
 # TubuGL WebGL constants
 
-es6 module in which constant values which are provide by webgl
+es6 module constant values which are provide by webgl
 
 ## WebGL constants
 
