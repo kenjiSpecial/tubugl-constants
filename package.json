@@ -1,0 +1,7 @@
+{
+  "name": "tubugl-contants",
+  "version": "1.0.0",
+  "description": "constant values which provide webgl ",
+  "main": "index.js",
+  "license": "MIT"
+}
