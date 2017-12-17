@@ -665,7 +665,7 @@ export const DYNAMIC_COPY = 0x88EA;
 export const DEPTH_COMPONENT32F = 0x8CAC;
 export const DEPTH32F_STENCIL8 = 0x8CAD;
 export const INVALID_INDEX = 0xFFFFFFFF;
-export const TIMEOUT_IGNORED = -;1
+export const TIMEOUT_IGNORED = -1;
 export const MAX_CLIENT_WAIT_TIMEOUT_WEBGL = 0x9247;
 
 /**
