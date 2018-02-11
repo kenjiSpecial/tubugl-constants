@@ -1,10 +1,10 @@
 {
   "name": "tubugl-constants",
-  "version": "1.1.0",
+  "version": "1.0.3",
   "description": "constant values which provide webgl ",
-  "cjs": "build/tubu-constants.cjs.js",
-  "module": "build/tubu-constants.esm.js",
-  "main": "build/tubu-constants.js",
+  "cjs": "build/tubu.cjs.js",
+  "module": "build/tubu.esm.js",
+  "main": "build/tubu.js",
   "libName": "Tubu",
   "license": "MIT",
   "devDependencies": {
@@ -18,6 +18,6 @@
     "rollup-plugin-node-resolve": "^3.0.2"
   },
   "scripts": {
-    "build": "rollup -c"
+    "build": "rollup -c",
   }
 }

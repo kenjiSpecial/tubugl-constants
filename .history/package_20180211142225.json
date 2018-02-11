@@ -1,6 +1,6 @@
 {
   "name": "tubugl-constants",
-  "version": "1.1.0",
+  "version": "1.0.3",
   "description": "constant values which provide webgl ",
   "cjs": "build/tubu-constants.cjs.js",
   "module": "build/tubu-constants.esm.js",
